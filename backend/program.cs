@@ -1,4 +1,2 @@
-﻿Console.WriteLine("Привет всем!");
-Console.WriteLine("Привет, Данил Колбасенко!");
-Console.WriteLine("Журавский Евгений Алексеевич");
-Console.WriteLine(DateTime.Now);
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
